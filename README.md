@@ -14,7 +14,7 @@ git clone https://github.com/mkimble88/shiny shiny
 ## volumes
 Volumes for apps and logs are linked in the `shiny/dockerfile/docker-compose.yml`
 
-# From rstudio/rshiny-examples/README.md
+# From /rstudio/shiny-examples/blob/master/README.md
 ## shiny-examples
 ==============
 
@@ -41,7 +41,7 @@ feedback.
 
 * [None]
 
-# rocker-org/shiny/edit/master/README.md
+# From /rocker-org/shiny/blob/master/README.md
 ## Docker for Shiny Server
 =======================
 
