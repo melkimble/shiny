@@ -7,7 +7,9 @@ https://github.com/rocker-org/shiny
 
 ## git clone
 I wanted everything to be deployed in the same git clone:
+```sh
 git clone https://github.com/mkimble88/shiny shiny
+```
 
 ## volumes
 Volumes for apps and logs are linked in the shiny/dockerfile/docker-compose.yml 
