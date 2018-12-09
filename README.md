@@ -13,7 +13,7 @@ git clone https://github.com/mkimble88/shiny shiny
 Volumes for apps and logs are linked in the shiny/dockerfile/docker-compose.yml 
 
 # From rstudio/rshiny-examples/README.md
-shiny-examples
+## shiny-examples
 ==============
 
 This is a collection of Shiny examples. You can see them in action on
