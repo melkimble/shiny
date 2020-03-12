@@ -8,7 +8,7 @@ Original code obtained from:
 ## git clone
 I wanted everything to be deployed in the same git clone:
 ```sh
-git clone https://github.com/mkimble88/shiny shiny
+git clone https://github.com/melkimble/shiny shiny
 ```
 
 ## volumes
